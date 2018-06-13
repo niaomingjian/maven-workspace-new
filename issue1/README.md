@@ -1,47 +1,48 @@
-jaraºÍjaraÓĞÍ¬ÃûµÄÀà£¬sameclassmodule²»Í¬µÄpom£¬»áÊ¹ÓÃ²»Í¬µÄjar
-
-©À©¤jara
-©¦  ©¦  pom.xml
-©¦  ©À©¤src
-©¦      ©À©¤main
-©¦      ©¦  ©À©¤java
-©¦      ©¦  ©¦  ©¸©¤com
-©¦      ©¦  ©¦      ©¸©¤nmj
-©¦      ©¦  ©¦          ©¸©¤common
-©¦      ©¦  ©¦                  SameClass.java
-©¦      ©¦  ©¦
-©¦      ©¦  ©¸©¤resources
-©¦      ©¸©¤test
-©¦          ©¸©¤java
-©¦
-©À©¤jarb
-©¦  ©¦  pom.xml
-©¦  ©¦
-©¦  ©À©¤src
-©¦      ©À©¤main
-©¦      ©¦  ©À©¤java
-©¦      ©¦  ©¦  ©¸©¤com
-©¦      ©¦  ©¦      ©¸©¤nmj
-©¦      ©¦  ©¦          ©¸©¤common
-©¦      ©¦  ©¦                  SameClass.java
-©¦      ©¦  ©¦
-©¦      ©¦  ©¸©¤resources
-©¦      ©¸©¤test
-©¦          ©¸©¤java
-©¦
-©¸©¤sameclass
-    ©¦  pom.xml
-    ©¸©¤sameclassmodule
-        ©¦  pom.xml
-        ©¦
-        ©À©¤src
-            ©À©¤main
-            ©¦  ©À©¤java
-            ©¦  ©¦  ©¸©¤com
-            ©¦  ©¦      ©¸©¤nmj
-            ©¦  ©¦          ©¸©¤sameclass
-            ©¦  ©¦                  EntryPoint.java
-            ©¦  ©¦
-            ©¦  ©¸©¤resources
-            ©¸©¤test
-                ©¸©¤java
+jaraå’Œjaraæœ‰åŒåçš„ç±»ï¼Œsameclassmoduleä¸åŒçš„pomï¼Œä¼šä½¿ç”¨ä¸åŒçš„jar
+```
+â”œâ”€jara
+â”‚  â”‚  pom.xml
+â”‚  â”œâ”€src
+â”‚      â”œâ”€main
+â”‚      â”‚  â”œâ”€java
+â”‚      â”‚  â”‚  â””â”€com
+â”‚      â”‚  â”‚      â””â”€nmj
+â”‚      â”‚  â”‚          â””â”€common
+â”‚      â”‚  â”‚                  SameClass.java
+â”‚      â”‚  â”‚
+â”‚      â”‚  â””â”€resources
+â”‚      â””â”€test
+â”‚          â””â”€java
+â”‚
+â”œâ”€jarb
+â”‚  â”‚  pom.xml
+â”‚  â”‚
+â”‚  â”œâ”€src
+â”‚      â”œâ”€main
+â”‚      â”‚  â”œâ”€java
+â”‚      â”‚  â”‚  â””â”€com
+â”‚      â”‚  â”‚      â””â”€nmj
+â”‚      â”‚  â”‚          â””â”€common
+â”‚      â”‚  â”‚                  SameClass.java
+â”‚      â”‚  â”‚
+â”‚      â”‚  â””â”€resources
+â”‚      â””â”€test
+â”‚          â””â”€java
+â”‚
+â””â”€sameclass
+    â”‚  pom.xml
+    â””â”€sameclassmodule
+        â”‚  pom.xml
+        â”‚
+        â”œâ”€src
+            â”œâ”€main
+            â”‚  â”œâ”€java
+            â”‚  â”‚  â””â”€com
+            â”‚  â”‚      â””â”€nmj
+            â”‚  â”‚          â””â”€sameclass
+            â”‚  â”‚                  EntryPoint.java
+            â”‚  â”‚
+            â”‚  â””â”€resources
+            â””â”€test
+                â””â”€java
+```
